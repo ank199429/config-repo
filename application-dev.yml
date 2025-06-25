@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      uri: "{cipher}eeadf7f0b363cb368de59ed0638b7ac126774b3d0ea24cce376e2f12a54292ff699e4c5c98107fe1f21b34bfb074ae02"
+bean:
+  dynamicName: my-dynamic-ser
